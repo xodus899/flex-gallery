@@ -77,3 +77,9 @@ button {
   font-family: 'PT Serif', 'serif';
   
 }
+
+@media screen and (max-width: 600px) {
+  .card {
+    padding:5%;
+  }
+}
